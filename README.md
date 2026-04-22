@@ -8,8 +8,10 @@ I’m interested in building practical AI applications and exploring new ideas i
 
 ---
 
-🔭 Currently working on AI-based projects
+🔭 Currently working on AI-ML based projects
+
 🌱 Learning and exploring new ML techniques
+
 💼 Open to collaborations and research opportunities
 
 ---
