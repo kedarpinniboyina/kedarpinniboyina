@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm Kedar 👋
 
-<!--
-**kedarpinniboyina/kedarpinniboyina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistant Professor at Parul University | AI & Machine Learning
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in building practical AI applications and exploring new ideas in machine learning.
+
+---
+
+🔭 Currently working on AI-based projects
+🌱 Learning and exploring new ML techniques
+💼 Open to collaborations and research opportunities
+
+---
+
+## 🚀 Projects
+
+* Text-to-Image Generation using Stable Diffusion
+* Image Captioning using BLIP / BLIP2
+* Phishing Detection System
+
+---
+
+## 🛠 Skills
+
+Python | SQL | NumPy | Pandas
+Diffusers | Gradio | MySQL
+
+---
+
+## 🌐 Connect
+
+LinkedIn: linkedin.com/in/kedarpinniboyina
+Instagram: instagram.com/kedar_pinniboyina
