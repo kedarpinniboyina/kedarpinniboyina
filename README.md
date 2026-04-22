@@ -31,9 +31,16 @@ Diffusers | Gradio | MySQL
 
 ---
 
-## 🌐 Connect
-
 ## 🌐 Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kedarpinniboyina)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kedar_pinniboyina)
+<a href="https://linkedin.com/in/kedarpinniboyina">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
+<a href="https://instagram.com/kedar_pinniboyina">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+</a>
+
+<a href="mailto:kedarpinniboyina@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
