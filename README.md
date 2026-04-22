@@ -33,5 +33,7 @@ Diffusers | Gradio | MySQL
 
 ## 🌐 Connect
 
-LinkedIn: linkedin.com/in/kedarpinniboyina
-Instagram: instagram.com/kedar_pinniboyina
+## 🌐 Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kedarpinniboyina)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kedar_pinniboyina)
