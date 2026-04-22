@@ -1,14 +1,14 @@
 # Hello, I'm Kedar 👋
 
-Assistant Professor at Parul University | AI & Machine Learning
+Assistant Professor at Parul University | Interested in AI & Machine Learning.
 
 Welcome to my GitHub profile!
 
-I’m interested in building practical AI applications and exploring new ideas in machine learning.
+I enjoy building practical AI applications and exploring new ideas in machine learning.
 
 ---
 
-🔭 Currently working on AI-ML based projects
+🔭 Currently working on AI & ML based projects
 
 🌱 Learning and exploring new ML techniques
 
@@ -26,7 +26,7 @@ I’m interested in building practical AI applications and exploring new ideas i
 
 ## 🛠 Skills
 
-Python | SQL | NumPy | Pandas
+Python | C | SQL | NumPy | Pandas
 Diffusers | Gradio | MySQL
 
 ---
