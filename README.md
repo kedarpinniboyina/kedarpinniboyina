@@ -1,4 +1,4 @@
-# Hello, I'm Kedar 👋
+# Hello, I'm Kedar Pinniboyina👋
 
 Assistant Professor at Parul University | Interested in AI & Machine Learning.
 
